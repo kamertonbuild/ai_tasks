@@ -1,4 +1,4 @@
-package ru.yandex.ai;
+package ru.yandex.ai.task2;
 
 import java.util.Arrays;
 
